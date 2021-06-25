@@ -2,7 +2,7 @@
 Cool graphs I made on Desmos!
 
 *FAVORITES*  
-Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>
+Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
 Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 
 
