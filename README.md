@@ -1,5 +1,5 @@
 # Desmos-Creations
-Cool graphs I made on Desmos!
+Links to cool graphs I made on Desmos! They are sorted by topic below. Enjoy :D
 
 *FAVORITES*  
 Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
