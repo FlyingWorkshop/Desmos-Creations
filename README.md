@@ -13,6 +13,10 @@ Pythagoras Exploration: <https://www.desmos.com/calculator/7jucjkfmef>
 Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>  
 Phase Portrait Exploration: <https://www.desmos.com/calculator/t2sbceauel>
 
+*ANIMATION*
+Circle Grid Expansion: <https://www.desmos.com/calculator/oxodj33wpk>
+
+
 *CS SYSTEMS*  
 Signed Int Exploration: <https://www.desmos.com/calculator/ezqvdrknyf>  
 
