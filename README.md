@@ -5,7 +5,6 @@ Links to cool graphs I made on Desmos!
 Phase Portrait Exploration: <https://www.desmos.com/calculator/t2sbceauel>  
 Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
 Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>  
-Circle Grid Expansion: <https://www.desmos.com/calculator/oxodj33wpk>  
 
 *MATH*  
 Unit Normal Vector Exploration: <https://www.desmos.com/calculator/ubv6dhluy0>  
@@ -15,7 +14,7 @@ Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 Phase Portrait Exploration: <https://www.desmos.com/calculator/t2sbceauel>
 
 *ANIMATION*  
-Circle Grid Expansion: <https://www.desmos.com/calculator/oxodj33wpk>  
+Circle Grid Expansion: (V1) [https://www.desmos.com/calculator/oxodj33wpk] (V2) [https://www.desmos.com/calculator/6mzfubbit8]
 
 
 *CS SYSTEMS*  
