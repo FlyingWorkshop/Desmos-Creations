@@ -14,7 +14,7 @@ Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 Phase Portrait Exploration: <https://www.desmos.com/calculator/t2sbceauel>
 
 *ANIMATION*  
-Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/oxodj33wpk), [Version 2](https://www.desmos.com/calculator/6mzfubbit8)
+Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/l7csjqvyzo), [Version 2](https://www.desmos.com/calculator/6mzfubbit8)
 
 
 *CS SYSTEMS*  
