@@ -4,7 +4,7 @@ Links to cool graphs I made on Desmos!
 *FAVORITES*  
 Phase Portrait Exploration: <https://www.desmos.com/calculator/t2sbceauel>  
 Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
-Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
+Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>  
 Circle Grid Expansion Version 3: <https://www.desmos.com/calculator/9spnxvhsak>
 
 *MATH*  
