@@ -1,6 +1,9 @@
 # Desmos-Creations
 Links to cool graphs I made on Desmos!
 
+*IN PROGRESS*
+Phase Portrait Complex Extension: <https://www.desmos.com/calculator/zrudkvtqoe>  
+
 *FAVORITES*  
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>  
 Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
