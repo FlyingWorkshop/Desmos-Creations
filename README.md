@@ -2,7 +2,7 @@
 Links to cool graphs I made on Desmos!
 
 *IN PROGRESS*  
-Phase Portrait Complex Extension: <https://www.desmos.com/calculator/p4zhw3f6as>  
+Phase Portrait Complex Extension: <https://www.desmos.com/calculator/uohfhtc2iz>  
 
 *FAVORITES*  
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>  
