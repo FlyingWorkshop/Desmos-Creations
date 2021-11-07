@@ -15,7 +15,7 @@ Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>
 Simple e Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>
 
-*PROBABILITY*
+*PROBABILITY*  
 Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw> 
 
 
