@@ -13,10 +13,11 @@ Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww
 Pythagoras Exploration: <https://www.desmos.com/calculator/7jucjkfmef>  
 Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>  
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>  
-Simple "e" Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>
+Simple "e" Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>  
+Simple Riemann Sum Visualization: <https://www.desmos.com/calculator/u8jqycw1vv>
 
 *PROBABILITY*  
-Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw> 
+Simple Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw> 
 
 
 *ANIMATION*  
