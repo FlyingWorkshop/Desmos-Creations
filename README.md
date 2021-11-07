@@ -12,7 +12,7 @@ Unit Normal Vector Exploration: <https://www.desmos.com/calculator/ubv6dhluy0>
 Cross and Dot Product Exploration: <https://www.desmos.com/calculator/0jxxmckzww>  
 Pythagoras Exploration: <https://www.desmos.com/calculator/7jucjkfmef>  
 Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>  
-Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>
+Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>  
 Simple "e" Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>
 
 *PROBABILITY*  
