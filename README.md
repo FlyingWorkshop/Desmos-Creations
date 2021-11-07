@@ -28,7 +28,7 @@ Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/l7csjqvyzo)
 Signed Int Exploration: <https://www.desmos.com/calculator/ezqvdrknyf>  
 
 *CS THEORY*  
-Power Set Exploration: <https://www.desmos.com/calculator/iqnxwlj19n>  
+Simple Power Set Exploration: <https://www.desmos.com/calculator/iqnxwlj19n>  
 
 *HIATUS*  
 Phase Portrait Complex Extension: <https://www.desmos.com/calculator/uohfhtc2iz>  
