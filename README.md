@@ -25,7 +25,7 @@ Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/l7csjqvyzo)
 
 
 *CS SYSTEMS*  
-Signed Int Exploration: <https://www.desmos.com/calculator/ezqvdrknyf>  
+Simple Signed Int Exploration: <https://www.desmos.com/calculator/ezqvdrknyf>  
 
 *CS THEORY*  
 Simple Power Set Exploration: <https://www.desmos.com/calculator/iqnxwlj19n>  
