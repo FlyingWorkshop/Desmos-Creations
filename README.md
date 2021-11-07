@@ -15,6 +15,10 @@ Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>
 Simple e Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>
 
+*PROBABILITY*
+Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw> 
+
+
 *ANIMATION*  
 Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/l7csjqvyzo), [Version 2](https://www.desmos.com/calculator/6mzfubbit8), [Version 3](https://www.desmos.com/calculator/aocvutopog)
 
