@@ -17,7 +17,8 @@ Simple "e" Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>
 Simple Riemann Sum Visualization: <https://www.desmos.com/calculator/u8jqycw1vv>
 
 *PROBABILITY*  
-Simple Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw> 
+Simple Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw>  
+Simple Argmax Equivalence Exploration: <https://www.desmos.com/calculator/7kkmkfzlpv>
 
 
 *ANIMATION*  
