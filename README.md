@@ -19,7 +19,7 @@ Simple Hexagonal Circle Packing: <https://www.desmos.com/calculator/rbq7calt8a>
 
 *PROBABILITY*  
 Simple Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw>  
-Simple Argmax Equivalence Exploration: <https://www.desmos.com/calculator/7kkmkfzlpv>
+Simple Argmax Equivalence Exploration: <https://www.desmos.com/calculator/7kkmkfzlpv>  
 Simple Box-Muller Transform Exploration: <https://www.desmos.com/calculator/55pmlso9x1>  
 
 
