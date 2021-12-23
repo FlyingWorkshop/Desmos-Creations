@@ -15,7 +15,8 @@ Bike Exploration: <https://www.desmos.com/calculator/i5hrbohdb4>
 Phase Portrait Exploration: <https://www.desmos.com/calculator/lilwyec9wp>  
 Simple "e" Exploration: <https://www.desmos.com/calculator/tvbcbumn0j>  
 Simple Riemann Sum Visualization: <https://www.desmos.com/calculator/u8jqycw1vv>  
-Simple Hexagonal Circle Packing: <https://www.desmos.com/calculator/rbq7calt8a>
+[Simple Hexagonal Circle Packing](https://www.desmos.com/calculator/rbq7calt8a)
+[Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu)
 
 *PROBABILITY*  
 Simple Mean of Random Samples Exploration: <https://www.desmos.com/calculator/mo2yjpppiw>  
