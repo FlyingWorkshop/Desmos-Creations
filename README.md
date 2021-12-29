@@ -1,5 +1,5 @@
 # Desmos-Creations  
-Links to cool graphs I made on Desmos!  
+Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.github.io/Desmos-Creations/) to access the web version.
   
 ## FAVORITES  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
