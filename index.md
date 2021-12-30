@@ -3,7 +3,7 @@ Links to cool graphs I made on Desmos! Most of these graphs are interactive, so 
   
 ## FAVORITES  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
-Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disapear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the complex trajectory visualizer is currently on hiatus. 
+Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disappear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the complex trajectory visualizer is currently on hiatus. 
 <iframe src="https://www.desmos.com/calculator/rtmtk5sqwz?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0jxxmckzww)  
@@ -33,6 +33,7 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 (see Favorites)
 
 - [Simple "e" Exploration](https://www.desmos.com/calculator/tvbcbumn0j)  
+A cool way to link discrete math to e via combinatorics. e is truly a profound number; it's the natural language of growth itself!
 <iframe src="https://www.desmos.com/calculator/3ebs2uqshk?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Riemann Sum Visualization](https://www.desmos.com/calculator/r5dqnetbeb)  
@@ -40,16 +41,20 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 
 
 - [Simple Hexagonal Circle Packing](https://www.desmos.com/calculator/rbq7calt8a)  
+Hexagons are truly are remarkable mathematical jewl in the cosmos. They adorn the natural world as chemical bonds, honeybee nests, and even [massive planetary storms](https://en.wikipedia.org/wiki/Saturn%27s_hexagon). I began exploring the nature of hexagonal packing as part of a Stanford CS 109 project; the fruits of that project are in this [repo](https://github.com/FlyingWorkshop/Coins).
 <iframe src="https://www.desmos.com/calculator/c4elrm6jko?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu)  
+This project demonstrates the utility of Heron's formula. It shows that in some cases, using Heron's formula is vastly simpler than computing the area of a triangle via normal means (i.e. A = bh / 2). Most of the utility of this graph is only accessible on the Desmos website. To truly understand how useful Heron's formula is, it's best to see first how simple it is to calculate the triangle area using Heron's formula and then compare it to the mess of algebra needed to compute it the traditional way. However, since embedded Desmos graphs cannot display equations, you have to click on the link in the subtitle to appreciate its full majesty.
 <iframe src="https://www.desmos.com/calculator/n3pr1ndi8n?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
+This project explores the claim: the expectation of the mean of a random sample from a distribution is the same as the expected value of the population. It's worth pondering why the histogram resembles a normal distribution.
 <iframe src="https://www.desmos.com/calculator/gquxdk6tzp?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Argmax Equivalence Exploration](https://www.desmos.com/calculator/7kkmkfzlpv)  
+This simple project attempts to visualize the claim that the argmax of a function f(x) is the same as the argmax of the log of that function (since log is monotic). While this is mathematically and graphically intuitive, I felt it was helpful to see it first-hand.
 <iframe src="https://www.desmos.com/calculator/4keduwneoe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/55pmlso9x1)  
