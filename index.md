@@ -57,8 +57,8 @@ This project explores the claim: the expectation of the mean of a random sample 
 This simple project attempts to visualize the claim that the argmax of a function f(x) is the same as the argmax of the log of that function (since log is monotic). While this is mathematically and graphically intuitive, I felt it was helpful to see it first-hand.
 <iframe src="https://www.desmos.com/calculator/4keduwneoe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
-- [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/55pmlso9x1)  
-<iframe src="https://www.desmos.com/calculator/vr7hhfvted?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
+- [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/xjbldzpzzu)  
+<iframe src="https://www.desmos.com/calculator/xjbldzpzzu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>    
   
   
 ## ANIMATION  
