@@ -41,7 +41,7 @@ A cool way to link discrete math to e via combinatorics. e is truly a profound n
 
 
 - [Simple Hexagonal Circle Packing](https://www.desmos.com/calculator/rbq7calt8a)  
-Hexagons are truly are remarkable mathematical jewl in the cosmos. They adorn the natural world as chemical bonds, honeybee nests, and even [massive planetary storms](https://en.wikipedia.org/wiki/Saturn%27s_hexagon). I began exploring the nature of hexagonal packing as part of a Stanford CS 109 project; the fruits of that project are in this [repo](https://github.com/FlyingWorkshop/Coins).
+Hexagons are truly are remarkable mathematical jewel in the cosmos. They adorn the natural world as chemical bonds, honeybee nests, and even [massive planetary storms](https://en.wikipedia.org/wiki/Saturn%27s_hexagon). I began exploring the nature of hexagonal packing as part of a Stanford CS 109 project; the fruits of that project are in this [repo](https://github.com/FlyingWorkshop/Coins).
 <iframe src="https://www.desmos.com/calculator/c4elrm6jko?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu)  
@@ -54,7 +54,7 @@ This project explores the claim: the expectation of the mean of a random sample 
 <iframe src="https://www.desmos.com/calculator/gquxdk6tzp?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Argmax Equivalence Exploration](https://www.desmos.com/calculator/7kkmkfzlpv)  
-This simple project attempts to visualize the claim that the argmax of a function f(x) is the same as the argmax of the log of that function (since log is monotic). While this is mathematically and graphically intuitive, I felt it was helpful to see it first-hand.
+This simple project attempts to visualize the claim that the argmax of a function f(x) is the same as the argmax of the log of that function (since log is monotonic). While this is mathematically and graphically intuitive, I felt it was helpful to see it first-hand.
 <iframe src="https://www.desmos.com/calculator/4keduwneoe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/xjbldzpzzu)  
@@ -71,6 +71,7 @@ This simple project attempts to visualize the claim that the argmax of a functio
   
 ## CS THEORY  
 - [Simple Power Set Exploration](https://www.desmos.com/calculator/iqnxwlj19n)  
+<iframe src="https://www.desmos.com/calculator/pgmm5oug8u?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
 ## HIATUS  
 - [Phase Portrait Complex Extension](https://www.desmos.com/calculator/uohfhtc2iz)  
