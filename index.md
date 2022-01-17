@@ -58,7 +58,10 @@ This simple project attempts to visualize the claim that the argmax of a functio
 <iframe src="https://www.desmos.com/calculator/4keduwneoe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/xjbldzpzzu)  
-<iframe src="https://www.desmos.com/calculator/xjbldzpzzu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>    
+<iframe src="https://www.desmos.com/calculator/xjbldzpzzu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>   
+
+- [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
+<iframe src="https://www.desmos.com/calculator/25gxb0urve?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
   
 ## ANIMATION  
