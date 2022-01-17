@@ -16,7 +16,8 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
 - [Simple "e" Exploration](https://www.desmos.com/calculator/tvbcbumn0j)  
 - [Simple Riemann Sum Visualization](https://www.desmos.com/calculator/u8jqycw1vv)  
 - [Simple Hexagonal Circle Packing](https://www.desmos.com/calculator/rbq7calt8a)  
-- [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu)  
+- [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu) 
+- [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
