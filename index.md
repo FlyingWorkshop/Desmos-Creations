@@ -47,6 +47,13 @@ Hexagons are truly are remarkable mathematical jewel in the cosmos. They adorn t
 - [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu)  
 This project demonstrates the utility of Heron's formula. It shows that in some cases, using Heron's formula is vastly simpler than computing the area of a triangle via normal means (i.e. A = bh / 2). Most of the utility of this graph is only accessible on the Desmos website. To truly understand how useful Heron's formula is, it's best to see first how simple it is to calculate the triangle area using Heron's formula and then compare it to the mess of algebra needed to compute it the traditional way. However, since embedded Desmos graphs cannot display equations, you have to click on the link in the subtitle to appreciate its full majesty.
 <iframe src="https://www.desmos.com/calculator/n3pr1ndi8n?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
+
+- [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
+<iframe src="https://www.desmos.com/calculator/25gxb0urve?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe> 
+
+- [Triangle Decomposition](https://www.desmos.com/calculator/xp4oakzwmr)    
+<iframe src="https://www.desmos.com/calculator/sfdsqelgto?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
@@ -59,9 +66,6 @@ This simple project attempts to visualize the claim that the argmax of a functio
 
 - [Simple Box-Muller Transform Exploration](https://www.desmos.com/calculator/xjbldzpzzu)  
 <iframe src="https://www.desmos.com/calculator/xjbldzpzzu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>   
-
-- [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
-<iframe src="https://www.desmos.com/calculator/25gxb0urve?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
   
 ## ANIMATION  
