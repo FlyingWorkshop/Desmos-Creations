@@ -18,6 +18,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
 - [Simple Hexagonal Circle Packing](https://www.desmos.com/calculator/rbq7calt8a)  
 - [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu) 
 - [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
+- [Triangle Decomposition](https://www.desmos.com/calculator/xp4oakzwmr)    
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
