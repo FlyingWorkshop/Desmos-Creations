@@ -16,16 +16,20 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 - [Circle Grid Expansion Version 3](https://www.desmos.com/calculator/aocvutopog)  
 <iframe src="https://www.desmos.com/calculator/y6c84cwgqm?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
-## MATH  
+## LINEAR ALGEBRA  
 - [Change of Basis Application](https://www.desmos.com/calculator/g2tij36rv5)  
+Shows how reflecting points across an arbitrary line through the origin is easier if we use a non-standard basis for the xy-plane.
 <iframe src="https://www.desmos.com/calculator/g2tij36rv5?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
   
 - [Linear Maps and Change of Bases](https://www.desmos.com/calculator/ch22gueuwi)  
+Represent a point in the xy-plane as both a linear combination of the standard basis and as a linear combination of a dynamic non-standard basis. Drag the orange point around to explore!
 <iframe src="https://www.desmos.com/calculator/ch22gueuwi?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 - [Linear Maps](https://www.desmos.com/calculator/nw6dwsoaia)  
+Visualizes some of the infinitely many non-standard bases that span the xy-plane!
 <iframe src="https://www.desmos.com/calculator/nw6dwsoaia?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
+## MATH  
 - [Unit Normal Vector Exploration](https://www.desmos.com/calculator/ubv6dhluy0)  
 <iframe src="https://www.desmos.com/calculator/qrcgetkkyc?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
