@@ -16,9 +16,9 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 - [Circle Grid Expansion Version 3](https://www.desmos.com/calculator/aocvutopog)  
 <iframe src="https://www.desmos.com/calculator/y6c84cwgqm?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
-- [Gradient Field](https://www.desmos.com/calculator/vyhvm7t1tn)  
+- [Gradient Field](https://www.desmos.com/calculator/w0bq16krx8)  
 Visualize the gradient field of a 3-dimensional conic. The black graph is the intersection of the 3D surface and the xy-plane.  
-<iframe src="https://www.desmos.com/calculator/vyhvm7t1tn?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/ykqtfjulqe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
   
 ## LINEAR ALGEBRA  
 - [Change of Basis Application](https://www.desmos.com/calculator/g2tij36rv5)  
