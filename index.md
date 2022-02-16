@@ -72,8 +72,7 @@ This project demonstrates the utility of Heron's formula. It shows that in some 
 <iframe src="https://www.desmos.com/calculator/sfdsqelgto?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 - [Quintic Bezier Curves](https://www.desmos.com/calculator/gkmdbylck0)  
-<iframe src="https://www.desmos.com/calculator/gkmdbylck0?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
-  
+<iframe src="https://www.desmos.com/calculator/t5l6j8rq8m?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
