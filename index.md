@@ -71,7 +71,7 @@ This project demonstrates the utility of Heron's formula. It shows that in some 
 - [Triangle Decomposition](https://www.desmos.com/calculator/xp4oakzwmr)    
 <iframe src="https://www.desmos.com/calculator/sfdsqelgto?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-- [Quintic Bezier Curves](https://www.desmos.com/calculator/gkmdbylck0)  
+- [Cubic Bezier Curves](https://www.desmos.com/calculator/ejys9vdatz)  
 <iframe src="https://www.desmos.com/calculator/t5l6j8rq8m?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
   
 ## PROBABILITY  
