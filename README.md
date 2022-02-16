@@ -23,7 +23,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
 - [Heron's Formula Exploration](https://www.desmos.com/calculator/ixpf2n5amu) 
 - [Simple Cosine/Sine Visualization](https://www.desmos.com/calculator/zr5z9dwh7s) 
 - [Triangle Decomposition](https://www.desmos.com/calculator/xp4oakzwmr)    
-- [Quintic Bezier Curves](https://www.desmos.com/calculator/t5l6j8rq8m)  
+- [Cubic Bezier Curves](https://www.desmos.com/calculator/ejys9vdatz)  
   
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
