@@ -6,8 +6,9 @@ Links to cool graphs I made on Desmos! Most of these graphs are interactive, so 
 Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disappear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the complex trajectory visualizer is currently on hiatus. 
 <iframe src="https://www.desmos.com/calculator/rtmtk5sqwz?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
-- [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0jxxmckzww)  
-<iframe src="https://www.desmos.com/calculator/dv7kj9fejs?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
+- [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0d2qcjxpne)  
+<iframe src="https://www.desmos.com/calculator/0d2qcjxpne?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 
 - [Bike Exploration](https://www.desmos.com/calculator/i5hrbohdb4)  
 This graph was inspired by an example mentioned in Ben Orlin's book "The Only Constant is Change." More details can be found in the link.
