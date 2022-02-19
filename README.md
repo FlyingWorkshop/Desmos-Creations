@@ -3,7 +3,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
   
 ## FAVORITES  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
-- [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0jxxmckzww)  
+- [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0d2qcjxpne)  
 - [Bike Exploration](https://www.desmos.com/calculator/i5hrbohdb4)  
 - [Circle Grid Expansion Version 3](https://www.desmos.com/calculator/aocvutopog)  
 - [Gradient Field](https://www.desmos.com/calculator/w0bq16krx8)  
