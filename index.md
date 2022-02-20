@@ -34,6 +34,11 @@ Represent a point in the xy-plane as both a linear combination of the standard b
 Visualizes some of the infinitely many non-standard bases that span the xy-plane!
 <iframe src="https://www.desmos.com/calculator/nw6dwsoaia?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
+- [Dot Product Exploration 2](https://www.desmos.com/calculator/d0jsoo1u5x)  
+This project encodes the surprising and elegant geometric interpretation of the dot product as the product of the length of a vector and some projection onto it.
+<iframe src="https://www.desmos.com/calculator/u9quzhyj9f?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+
 ## MATH  
 - [Unit Normal Vector Exploration](https://www.desmos.com/calculator/ubv6dhluy0)  
 <iframe src="https://www.desmos.com/calculator/qrcgetkkyc?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
