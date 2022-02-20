@@ -10,6 +10,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
   
 ## MATH  
 - [Change of Basis Application](https://www.desmos.com/calculator/g2tij36rv5)  
+- [Dot Product Exploration 2](https://www.desmos.com/calculator/77hdyjzvu8)  
 - [Linear Maps and Change of Bases](https://www.desmos.com/calculator/ch22gueuwi)  
 - [Linear Maps](https://www.desmos.com/calculator/nw6dwsoaia)  
 - [Unit Normal Vector Exploration](https://www.desmos.com/calculator/ubv6dhluy0)  
