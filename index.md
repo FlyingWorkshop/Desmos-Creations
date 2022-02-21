@@ -38,6 +38,9 @@ Visualizes some of the infinitely many non-standard bases that span the xy-plane
 This project encodes the surprising and elegant geometric interpretation of the dot product as the product of the length of a vector and some projection onto it.
 <iframe src="https://www.desmos.com/calculator/lcszebwt4e?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+- [Simple Dot Product Equality](https://www.desmos.com/calculator/n71u1eyxv8) 
+This graph attempts to visualize this property of the dot product: Consider a vector c and a line L perpendicular to span(c). Now consider vectors a and b along the L. We claim that dot(a, c) = dot(b, c). More clearly, this graph demonstrates the geometric meaning of the dot product as the product of the length of the vector and some projection onto it. Since the projections of a and b onto c are identical, we know that their dot products must be equal too!
+<iframe src="https://www.desmos.com/calculator/bxo6w9yans?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## MATH  
 - [Unit Normal Vector Exploration](https://www.desmos.com/calculator/ubv6dhluy0)  
