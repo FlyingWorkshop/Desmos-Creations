@@ -18,7 +18,7 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 <iframe src="https://www.desmos.com/calculator/y6c84cwgqm?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Gradient Field](https://www.desmos.com/calculator/w0bq16krx8)  
-Visualize the gradient field of a 3-dimensional conic. The black graph is the intersection of the 3D surface and the xy-plane.  
+Visualize the gradient field of a 3-dimensional conic. The black graph is the intersection of the 3D surface and the xy-plane. The vector field math was adapted from another Desmos creator's graph which you can find [here](https://www.reddit.com/r/desmos/comments/fh1ogs/i_made_a_vector_field_visualizer/).    
 <iframe src="https://www.desmos.com/calculator/ykqtfjulqe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
   
 ## LINEAR ALGEBRA  
