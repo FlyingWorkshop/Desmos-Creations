@@ -6,10 +6,6 @@ Links to cool graphs I made on Desmos! Most of these graphs are interactive, so 
 Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disappear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the complex trajectory visualizer is currently on hiatus.
 <iframe src="https://www.desmos.com/calculator/rtmtk5sqwz?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
-- [Color Triangle](https://www.desmos.com/calculator/8q1xrqevpk)  
-Each corner of the triangle represents a "color axis" (between 0 and 255). For example, if you move the point to the vertex marked "G" the RGB value will be (0, 0, 255), so the triangle will turn fully green. The color triangle can represent any color that a standard computer pixel can, so play around and see which of the 16581375 possible colors is your favorite!
-<iframe src="https://www.desmos.com/calculator/8q1xrqevpk?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
-
 - [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0d2qcjxpne)  
 <iframe src="https://www.desmos.com/calculator/0d2qcjxpne?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
@@ -101,6 +97,9 @@ This simple project attempts to visualize the claim that the argmax of a functio
   
   
 ## ANIMATION  
+- [Color Triangle](https://www.desmos.com/calculator/8q1xrqevpk)  
+Each corner of the triangle represents a "color axis" (between 0 and 255). For example, if you move the point to the vertex marked "G" the RGB value will be (0, 0, 255), so the triangle will turn fully green. The color triangle can't represent every RGB value, but it's still fun to explore!
+<iframe src="https://www.desmos.com/calculator/8q1xrqevpk?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 - Circle Grid Expansion: [Version 1](https://www.desmos.com/calculator/l7csjqvyzo), [Version 2](https://www.desmos.com/calculator/6mzfubbit8), [Version 3](https://www.desmos.com/calculator/aocvutopog)  
 (see Favorites)
   
