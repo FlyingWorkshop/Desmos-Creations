@@ -2,8 +2,9 @@
 Links to cool graphs I made on Desmos! Most of these graphs are interactive, so feel free to click and drag. Some of the graph features can only be viewed on the Desmos website, so if you are curious or would like to tinker with the formulas yourself, please click the links in the title. Most graphs will also have more details and explanations on the pages linked. 
   
 ## FAVORITES  
+- [Complex Phase Portrait Extension](https://www.desmos.com/calculator/778pprxyop)  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
-Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disappear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the complex trajectory visualizer is currently on hiatus.
+Graph the phase portrait for a homogenous linear system (i.e. x' = Ax). Sometimes the trajectories will disappear, this is because the solution involves an imaginary step and Desmos does not natively support complex operations, so workarounds have to be creative. Work on the integrated complex trajectory visualizer is currently on hiatus.
 <iframe src="https://www.desmos.com/calculator/rtmtk5sqwz?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>  
 
 - [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0d2qcjxpne)  
