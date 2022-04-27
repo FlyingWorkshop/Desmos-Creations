@@ -29,6 +29,10 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
 - [Triangle Decomposition](https://www.desmos.com/calculator/xp4oakzwmr)    
 - [Cubic Bezier Curves](https://www.desmos.com/calculator/ejys9vdatz)  
   
+  
+## ANALYSIS
+- [Simple Mean-Value Theorem Exploration](https://www.desmos.com/calculator/cq6glgwbse)  
+
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
 - [Simple Argmax Equivalence Exploration](https://www.desmos.com/calculator/7kkmkfzlpv)  
