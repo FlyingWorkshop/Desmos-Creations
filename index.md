@@ -85,6 +85,10 @@ This project demonstrates the utility of Heron's formula. It shows that in some 
 - [Cubic Bezier Curves](https://www.desmos.com/calculator/ejys9vdatz)  
 <iframe src="https://www.desmos.com/calculator/jgf3vue8a9?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+## ANALYSIS
+- [Simple Mean-Value Theorem Exploration](https://www.desmos.com/calculator/cq6glgwbse)  
+<iframe src="https://www.desmos.com/calculator/cq6glgwbse?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
 This project explores the claim: the expectation of the mean of a random sample from a distribution is the same as the expected value of the population. It's worth pondering why the histogram resembles a normal distribution.
