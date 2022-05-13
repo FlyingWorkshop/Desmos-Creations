@@ -32,7 +32,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
   
 ## ANALYSIS
 - [Simple Mean-Value Theorem Exploration](https://www.desmos.com/calculator/cq6glgwbse)  
-- [Extreme Value Theorem](https://www.desmos.com/calculator/sldxsng8ys)  
+- [Extreme Value Theorem](https://www.desmos.com/calculator/ct4nvqelpz)  
 
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
