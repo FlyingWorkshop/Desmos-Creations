@@ -88,6 +88,11 @@ This project demonstrates the utility of Heron's formula. It shows that in some 
 ## ANALYSIS
 - [Simple Mean-Value Theorem Exploration](https://www.desmos.com/calculator/cq6glgwbse)  
 <iframe src="https://www.desmos.com/calculator/cq6glgwbse?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+- [Extreme Value Theorem](https://www.desmos.com/calculator/sldxsng8ys)  
+The Extreme Value theorem is an extremely intuitive result. Simply put, it claims that a real-valued continuous function on a closed
+interval attains a minimum and a maximum. We see below that the red function has both a minimum point and and maximum point
+on the closed interval between the purple lines.
+<iframe src="https://www.desmos.com/calculator/sldxsng8ys?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## PROBABILITY  
 - [Simple Mean of Random Samples Exploration](https://www.desmos.com/calculator/mo2yjpppiw)  
