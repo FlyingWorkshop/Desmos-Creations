@@ -4,6 +4,7 @@ Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.gi
 ## FAVORITES  
 - [Complex Phase Portrait Extension](https://www.desmos.com/calculator/778pprxyop)  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
+- [Butterfly Network Generator](https://www.desmos.com/calculator/pfkdmitulm)
 - [Color Triangle](https://www.desmos.com/calculator/8q1xrqevpk)  
 - [Cross and Dot Product Exploration](https://www.desmos.com/calculator/0d2qcjxpne)  
 - [Bike Exploration](https://www.desmos.com/calculator/i5hrbohdb4)  
