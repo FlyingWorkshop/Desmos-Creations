@@ -1,3 +1,6 @@
+![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
+
+
 # Desmos-Creations  
 Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.github.io/Desmos-Creations/) to access the web version.
   
