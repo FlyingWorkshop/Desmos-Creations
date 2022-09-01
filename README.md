@@ -2,6 +2,7 @@
 Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.github.io/Desmos-Creations/) to access the web version.
   
 ## FAVORITES  
+- [General Phase Portrait](https://www.desmos.com/calculator/ghglimhqjq)  
 - [Complex Phase Portrait Extension](https://www.desmos.com/calculator/778pprxyop)  
 - [Phase Portrait Exploration](https://www.desmos.com/calculator/lilwyec9wp)  
 - [Butterfly Network Generator](https://www.desmos.com/calculator/pfkdmitulm)
