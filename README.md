@@ -2,7 +2,7 @@
 
 
 # Desmos-Creations  
-Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.github.io/Desmos-Creations/) to access the web version.
+Links to cool graphs I made on Desmos! Use this [link](https://flyingworkshop.github.io/Desmos-Creations/) to access the web version. (The website is unstable on mobile).
   
 ## FAVORITES  
 - [General Phase Portrait](https://www.desmos.com/calculator/ghglimhqjq)  
