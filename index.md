@@ -27,6 +27,11 @@ This graph was inspired by an example mentioned in Ben Orlin's book "The Only Co
 - [Gradient Field](https://www.desmos.com/calculator/w0bq16krx8)  
 Visualize the gradient field of a 3-dimensional conic. The black graph is the intersection of the 3D surface and the xy-plane. The vector field math was adapted from another Desmos creator's graph which you can find [here](https://www.reddit.com/r/desmos/comments/fh1ogs/i_made_a_vector_field_visualizer/).    
 <iframe src="https://www.desmos.com/calculator/ykqtfjulqe?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+- [Voronoi](https://www.desmos.com/calculator/qj8nsnej4w)
+A graph made for [this project](https://github.com/FlyingWorkshop/VoronoiDiagram/blob/main/voronoi.ipynb)
+
+<iframe src="https://www.desmos.com/calculator/qj8nsnej4w?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
   
 ## LINEAR ALGEBRA  
 - [Change of Basis Application](https://www.desmos.com/calculator/g2tij36rv5)  
